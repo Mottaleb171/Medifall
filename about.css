@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+mark {
+  background: yellow;
+  color: blue;
+  padding: 1px 10px;
+}
+
+.sec1 {
+  margin-top: 30px;
+  padding-top: 20px;
+}
+.sec1 h1 {
+  color: #007cc7;
+}
+
+.sec1 p {
+  text-align: justify;
+  margin-top: 25px;
+  font-size: 20px;
+}
+.sec1 img {
+  padding-right: 120px;
+}
+.sec2 p {
+  text-align: justify;
+  margin-top: 25px;
+  font-size: 20px;
+}
+.sec3 p {
+  text-align: justify;
+  margin-top: 25px;
+  font-size: 20px;
+}
+
+.mission {
+  margin-top: -20px;
+  margin-left: 50px;
+  text-align: justify;
+}
+#missionImg {
+  margin-top: -30px;
+  transition: 4s;
+}
+#missionImg:hover {
+  transform: translateY(20px);
+}
+#impact {
+  text-align: justify;
+}
+.card {
+  padding: 10px 10px 0 10px;
+  transition: 1s;
+  width: 400px;
+  height: 430px;
+}
+.card:hover {
+  transform: translateY(-15px);
+}
+#impact i {
+  left: 50%;
+  font-size: 50px;
+  border-radius: 50%;
+  border: 1px solid;
+  padding: 15px 20px;
+  margin-left: 110px;
+  margin-bottom: 10px;
+}

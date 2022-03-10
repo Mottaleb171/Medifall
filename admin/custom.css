@@ -1,0 +1,36 @@
+h2 {
+  color: #189ba2;
+  text-shadow: 2px 2px 1px #b0c6c5, -2px -2px 1px white;
+}
+.part2 {
+  background: #ecf0f3;
+  padding: 20px 0 20px 0;
+  box-shadow: 8px 8px 5px #acbbbb;
+}
+#recent {
+  color: #189ba2;
+  padding: 25px;
+  box-shadow: inset 5px 5px 3px gray, inset -5px -5px 3px white;
+  border-radius: 20px;
+  justify-content: center;
+}
+.arrow {
+  margin-left: 170px;
+  margin-top: -90px;
+  font-size: 50px;
+}
+#assignbox {
+  height: 550px;
+  border-radius: 20px;
+  overflow: hidden;
+  background: #ecf0f3;
+  box-shadow: inset 5px 5px 3px gray, inset -5px -5px 3px white;
+}
+#viewbtn,
+#closebtn {
+  border-radius: 45%;
+}
+#del_btn{
+	margin-left: 200px;
+	margin-top: 200px; 
+}
